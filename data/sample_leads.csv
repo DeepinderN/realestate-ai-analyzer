@@ -1,0 +1,9 @@
+lead_id,name,phone,email,source,property_type,budget,timeline,location,notes,days_since_contact,follow_up_attempts
+L001,Marcus Webb,918-555-0192,mwebb@email.com,Zillow,Single Family,320000,30 days,Tulsa OK,Pre-approved. Looking for 3BR near good schools. Motivated to close fast.,2,1
+L002,Sandra Ortiz,405-555-0347,sortiz@gmail.com,Facebook Ad,Duplex,480000,6 months,Broken Arrow OK,Investor. Wants cash-flow positive. Has 2 other properties already.,14,3
+L003,James Thornton,918-555-0891,jt_homes@outlook.com,Website Form,Single Family,190000,90 days,Owasso OK,First-time buyer. Unsure about down payment. Needs education.,7,2
+L004,Priya Nair,918-555-0234,pnair@corp.com,Referral,Industrial,1200000,immediate,Tulsa OK,Corporate relocation. CEO moving warehouse ops. Decision by end of month.,1,1
+L005,Derek Cole,405-555-0678,dcole99@yahoo.com,Cold Outreach,Single Family,250000,unknown,Jenks OK,Left voicemail twice. No response. Uncertain interest.,21,4
+L006,Angela Foster,918-555-0456,afoster@realty.net,Open House,Condo,175000,60 days,Tulsa OK,Downsizing after divorce. Emotional buyer. Wants move-in ready only.,5,2
+L007,Tom Nakamura,918-555-0123,tnakamura@invest.io,LinkedIn,Multi-Family,850000,45 days,Tulsa OK,Portfolio investor. Wants 8+ units. Has financing ready. Toured 2 properties.,3,1
+L008,Beth Simmons,405-555-0999,bsimmons@hotmail.com,Zillow,Single Family,210000,unknown,Sand Springs OK,Inquired about listing price only. May be a seller not a buyer.,18,5
