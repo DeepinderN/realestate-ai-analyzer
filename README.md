@@ -1,4 +1,4 @@
-# 🏠 RealEstate AI Lead Analyzer
+#  RealEstate AI Lead Analyzer
 
 An AI-powered lead qualification tool for real estate operations. Feed it a CSV of leads — it scores, grades, and ranks every one using Claude, then outputs a prioritized action report in seconds.
 
@@ -33,7 +33,7 @@ Real estate teams waste hours manually reviewing leads that have wildly differen
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🏠  RealEstate AI Lead Analyzer  |  Powered by Claude
+   RealEstate AI Lead Analyzer  |  Powered by Claude
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   Loaded 8 leads from data/sample_leads.csv
@@ -71,7 +71,7 @@ Top 3 Priority Leads:
   2. Tom Nakamura  — Grade A — Score  9/10 — Schedule tour this week
   3. Marcus Webb   — Grade A — Score  8/10 — Send school info, close fast
 
-  ✅ Report saved → output/lead_report_20260427_143022.csv
+   Report saved → output/lead_report_20260427_143022.csv
 ```
 
 Sample output CSV: [`output/sample_output_20260427.csv`](output/sample_output_20260427.csv)
